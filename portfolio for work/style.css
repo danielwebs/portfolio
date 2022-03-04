@@ -1,0 +1,44 @@
+
+body{
+    background-color: beige;
+}
+nav{
+    background-color: aqua;
+}
+
+.me{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    justify-content: flex-end;
+    margin-left: 100px;
+}
+
+
+header{
+    margin-left: 150px;
+    
+
+    
+}
+.name{
+    margin-left: 150px;
+}
+
+nav, ul {
+    list-style-type: none;
+    display: flex;
+    flex-flow: row;
+    gap: 15px;
+    justify-content: end;
+    font-size: 24px;
+    font-family: monospace;
+
+
+
+}
+
+footer{
+    background-color: aqua;
+    height: 54px;
+}
